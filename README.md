@@ -38,8 +38,7 @@ Ce dépôt contient l’ensemble des scripts Python utilisés pour :
 
 ## 🛠️ Technologies & Outils
 
-- **Langage :** R
-- **Librairies principales :** NumPy, Matplotlib
+- **Langage :** R, Python
 - **Méthodologie :** Simulation stochastique, estimation de paramètres, visualisation
 
 ---
