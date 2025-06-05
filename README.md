@@ -18,13 +18,15 @@ L'objectif était d'étudier un **modèle épidémiologique basé sur une chaîn
 
 ## 🔧 Contenu du dépôt
 
-Ce dépôt contient l’ensemble des scripts Python utilisés pour :
+Ce dépôt contient : 
+- l’ensemble des scripts Python utilisés pour :
+  - ✅ Simuler le temps d’extinction de l’épidémie pour une population de **deux individus**
+  - ✅ Étendre les simulations à une **population infinie**
+  - ✅ Estimer les **paramètres de transition** du modèle (par maximum de vraisemblance ou analyse numérique)
+  - ✅ Vérifier numériquement la validité des estimateurs
+  - ✅ Générer des **visualisations** de l’évolution de l’épidémie
+- ainsi que le compte-rendu sous format pdf : $\textit{Compte_rendu.pdf}$.
 
-- ✅ Simuler le temps d’extinction de l’épidémie pour une population de **deux individus**
-- ✅ Étendre les simulations à une **population infinie**
-- ✅ Estimer les **paramètres de transition** du modèle (par maximum de vraisemblance ou analyse numérique)
-- ✅ Vérifier numériquement la validité des estimateurs
-- ✅ Générer des **visualisations** de l’évolution de l’épidémie
 
 ---
 
